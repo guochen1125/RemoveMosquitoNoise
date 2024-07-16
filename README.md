@@ -1,4 +1,4 @@
-# RemoveMosquitoNoise
+# Remove Mosquito Noise
 ## Algorithm Steps
 Should be performed separately for each color channel of YCrCb.
 ### 1. Calculate the ε matrix
